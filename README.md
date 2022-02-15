@@ -7,7 +7,7 @@ Ubuntu
 # Instructions
 1. Download the files
 
-    `git clone https://github.com/xlinuxmanx/auto-vpn.git`
+    `git clone https://github.com/tak65p/tak65p.git`
 
 2. CD Into the folder and make the scipt executable
 
